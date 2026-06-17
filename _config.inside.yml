@@ -431,7 +431,7 @@ plugins:
       <script>
         Waline.init({
           el: "#waline",
-          serverURL: "https://waline.xianjianheng.com/.netlify/functions/comment",
+          serverURL: "https://waline-blog-jinx66.vercel.app",
           reaction: ["https://cdn.cbd.int/cworld-blog@latest/src/img/comment-like.png"],
           search: false,
           pageview: true,
